@@ -2,14 +2,23 @@
 
 
 Summary of This Enhanced Isilon Python Script
+
 Connect to One or Multiple Clusters
+
 The script can prompt you to connect to a single Isilon cluster or multiple clusters. For each cluster, you supply IP/hostname, username, and password. The script establishes an SSH session, uploads a custom audit script if needed, and then gathers various configuration and status details.
+
 Retrieve and Display Key Isilon Details
+
 Status (e.g., isi status)
+
 Battery Status (isi batterystatus list)
+
 Read/Write Mode (isi readonly list)
+
 Disk Usage (via isi_for_array -s df -ik)
+
 NIC Info (isi network interfaces list)
+
 Quota Usage (isi quota quotas list --format json)
 NFS Exports (isi nfs exports list --format json)
 SMB Shares (isi smb share list --format json)
