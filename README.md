@@ -1,7 +1,8 @@
 # OneFS-Dashboard
 https://buymeacoffee.com/vallentes
 ![image](https://github.com/user-attachments/assets/15406cf7-86f5-469f-b2d2-6923e67c0517)
-![image](https://github.com/user-attachments/assets/3e78d593-901f-4d2c-8ebd-87db63001384)
+![image](https://github.com/user-attachments/assets/da686cbf-ce6b-414b-b043-941a9f156af1)
+
 
 
 
