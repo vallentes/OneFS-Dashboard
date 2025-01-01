@@ -1,5 +1,11 @@
 # OneFS-Dashboard
+
+Use at your own risk.
+This is part of testing tools i build
+
 https://buymeacoffee.com/vallentes
+
+
 ![image](https://github.com/user-attachments/assets/15406cf7-86f5-469f-b2d2-6923e67c0517)
 ![image](https://github.com/user-attachments/assets/da686cbf-ce6b-414b-b043-941a9f156af1)
 
